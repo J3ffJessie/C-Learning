@@ -1,0 +1,14 @@
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\bin\Debug\net8.0\MethodsProject.exe
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\bin\Debug\net8.0\MethodsProject.deps.json
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\bin\Debug\net8.0\MethodsProject.runtimeconfig.json
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\bin\Debug\net8.0\MethodsProject.dll
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\bin\Debug\net8.0\MethodsProject.pdb
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\obj\Debug\net8.0\MethodsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\obj\Debug\net8.0\MethodsProject.AssemblyInfoInputs.cache
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\obj\Debug\net8.0\MethodsProject.AssemblyInfo.cs
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\obj\Debug\net8.0\MethodsProject.csproj.CoreCompileInputs.cache
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\obj\Debug\net8.0\MethodsProject.dll
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\obj\Debug\net8.0\refint\MethodsProject.dll
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\obj\Debug\net8.0\MethodsProject.pdb
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\obj\Debug\net8.0\MethodsProject.genruntimeconfig.cache
+C:\Users\JeffJ\Projects\C-Learning\MethodsProject\obj\Debug\net8.0\ref\MethodsProject.dll
