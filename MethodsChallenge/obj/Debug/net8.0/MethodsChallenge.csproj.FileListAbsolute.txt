@@ -1,0 +1,15 @@
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\obj\Debug\net8.0\MethodsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\obj\Debug\net8.0\MethodsChallenge.AssemblyInfoInputs.cache
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\obj\Debug\net8.0\MethodsChallenge.AssemblyInfo.cs
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\obj\Debug\net8.0\MethodsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\obj\Debug\net8.0\MethodsChallenge.sourcelink.json
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\bin\Debug\net8.0\MethodsChallenge.exe
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\bin\Debug\net8.0\MethodsChallenge.deps.json
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\bin\Debug\net8.0\MethodsChallenge.runtimeconfig.json
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\bin\Debug\net8.0\MethodsChallenge.dll
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\bin\Debug\net8.0\MethodsChallenge.pdb
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\obj\Debug\net8.0\MethodsChallenge.dll
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\obj\Debug\net8.0\refint\MethodsChallenge.dll
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\obj\Debug\net8.0\MethodsChallenge.pdb
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\obj\Debug\net8.0\MethodsChallenge.genruntimeconfig.cache
+C:\Users\JeffJ\OneDrive\Desktop\C# Projects\C-Learning\MethodsChallenge\obj\Debug\net8.0\ref\MethodsChallenge.dll

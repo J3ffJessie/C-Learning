@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JeffJ\\OneDrive\\Desktop\\C# Projects\\C-Learning\\MethodsProject\\MethodsProject.csproj",
-      "projectName": "MethodsProject",
-      "projectPath": "C:\\Users\\JeffJ\\OneDrive\\Desktop\\C# Projects\\C-Learning\\MethodsProject\\MethodsProject.csproj",
+      "projectUniqueName": "C:\\Users\\JeffJ\\OneDrive\\Desktop\\C# Projects\\C-Learning\\MethodsChallenge\\MethodsChallenge.csproj",
+      "projectName": "MethodsChallenge",
+      "projectPath": "C:\\Users\\JeffJ\\OneDrive\\Desktop\\C# Projects\\C-Learning\\MethodsChallenge\\MethodsChallenge.csproj",
       "packagesPath": "C:\\Users\\JeffJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JeffJ\\OneDrive\\Desktop\\C# Projects\\C-Learning\\MethodsProject\\obj\\",
+      "outputPath": "C:\\Users\\JeffJ\\OneDrive\\Desktop\\C# Projects\\C-Learning\\MethodsChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JeffJ\\AppData\\Roaming\\NuGet\\NuGet.Config"
